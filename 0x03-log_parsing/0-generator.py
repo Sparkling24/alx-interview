@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-import random
+#!/usr/bin/python3import random
 import sys
 from time import sleep
 import datetime
